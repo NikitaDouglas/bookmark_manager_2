@@ -1,5 +1,4 @@
 ## Bookmark Manager
-Pairing with Sophie B
 <br>
 First user story:
 
